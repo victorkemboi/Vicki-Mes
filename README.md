@@ -2,7 +2,7 @@
 About a boy from the hidden village.
 
 # Hi there, I'm Victor Kiprop👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MesInc_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMesInc_&screen_name=MesInc_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MesInc_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MesInc_)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=1DA1F2&style=flat" alt="FKandie" /> </p>
 
 [![Status](https://img.shields.io/badge/Company-Marketforce-blue)](https://github.com/MesInc_)
