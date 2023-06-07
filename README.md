@@ -5,8 +5,8 @@ About a boy from the hidden village.
 [![Twitter Follow](https://img.shields.io/twitter/follow/MesInc_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MesInc_)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=1DA1F2&style=flat" alt="Victor Kiprop" /> </p>
 
-[![Status](https://img.shields.io/badge/Company-Marketforce-blue)](https://github.com/MesInc_)
-## I'm a Senior Android Engineer, Mobile Chapter Lead and an Illustrator.
+[![Status](https://img.shields.io/badge/Company-BranchIntl-blue)](https://github.com/MesInc_)
+## I'm a Senior Android Engineer, and an Illustrator.
 <p align="left"><a href="https://github.com/victorkemboi"><img title="Victor Kiprop" src="https://github-readme-stats.vercel.app/api?username=victorkemboi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 <a href="https://dribbble.com/mes_inc" style="margin-right:.5%; margin-top=.5%;">
